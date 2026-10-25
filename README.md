@@ -1,4 +1,4 @@
-*This project has been created by RAKOTONDRABE As Manjaka Josvah ([@AshCript](https://github.com/AshCript), as-rakot).*
+*This project has been created by RAKOTONDRABE As Manjaka Josvah ([@as-rakot](https://github.com/as-rakot)).*
 
 ---
 
